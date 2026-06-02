@@ -3,10 +3,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:58A6FF,100:1F6FEB&height=220&section=header&text=bip-bup-bip-bup&fontSize=80&fontColor=58A6FF&animated=true&fontAlignY=35&desc=Frontend%20Developer&descSize=20&descAlignY=55&descAlign=50" width="100%"/>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=React+%E2%80%A2+TypeScript+%E2%80%A2+JavaScript;Always+learning+something+new" />
-
 </div>
 
 <!-- SNAKE -->
