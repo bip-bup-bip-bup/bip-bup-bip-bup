@@ -1,12 +1,10 @@
 <div align="center">
 
-# 👋 Hey, I'm Володя
+# 👋 Hey there
 
-**Senior Frontend Developer** crafting web experiences with **React** & **TypeScript**
+**Frontend Developer** who loves building things for the web
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=70&lines=I+build+things+for+the+web;React+%E2%80%A2+TypeScript+%E2%80%A2+JavaScript)
-
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/balbeskin)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=70&lines=React+%E2%80%A2+TypeScript+%E2%80%A2+JavaScript;Always+learning+something+new)
 
 </div>
 
@@ -34,15 +32,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=bip-bup-bip-bup&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="170" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bip-bup-bip-bup&theme=github-dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9" height="170" />
-
-</div>
-
----
-
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=bip-bup-bip-bup&color=58A6FF&style=flat-square&label=Profile+views)
-
-*☕ Built with passion in Moscow*
 
 </div>
