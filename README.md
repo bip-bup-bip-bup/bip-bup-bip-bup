@@ -18,16 +18,6 @@
 
 </div>
 
-<!-- STATS -->
-<div align="center">
-
-### 📊 Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=bip-bup-bip-bup&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bip-bup-bip-bup&theme=github-dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9" height="170" />
-
-</div>
-
 <!-- LANGUAGES -->
 <div align="center">
 
@@ -44,26 +34,6 @@
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-
-### 📈 Activity Graph
-
-<a href="https://github.com/bip-bup-bip-bup">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bip-bup-bip-bup&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF&hide_border=true" width="100%"/>
-</a>
-
-</div>
-
-<!-- RANDOM QUOTE -->
-<div align="center">
-
-### 💭 Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github-dark" width="600"/>
 
 </div>
 
